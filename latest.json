@@ -1,12 +1,12 @@
 {
- "version": "1.6.14",
- "notes": "Sürüm yazısının yanında Güncelle düğmesi; ülke ve yönetmelik zemin etüdünden okunur; onay etiketleri sadeleşti; kolon ayağı seçimi üstte; zımbalama sonucu daha anlaşılır.",
- "file": "UcelTemel-Kurulum-1.6.14.exe",
- "size": 97718639,
- "sha256": "75f5f283d1eda80eb111a10429ae5185cf11b05d46ba3d0693d54846a3fa36fa",
+ "version": "1.6.15",
+ "notes": "Otomatik güncelleme daha güvenli (açık proje kaydedilir, başarısız kurulum döngüye girmez); karşılaştırma tablosu düzeni; çeviri tamamlandı.",
+ "file": "UcelTemel-Kurulum-1.6.15.exe",
+ "size": 97719983,
+ "sha256": "91e5f013b9659d968b66b371b1abbed8a57295a4f257342fe5a3e6c57e6f7a62",
  "parts": [
-  "surumler/UcelTemel-1.6.14.part0",
-  "surumler/UcelTemel-1.6.14.part1",
-  "surumler/UcelTemel-1.6.14.part2"
+  "surumler/UcelTemel-1.6.15.part0",
+  "surumler/UcelTemel-1.6.15.part1",
+  "surumler/UcelTemel-1.6.15.part2"
  ]
 }
