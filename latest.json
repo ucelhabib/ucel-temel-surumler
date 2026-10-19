@@ -1,12 +1,12 @@
 {
- "version": "1.6.11",
- "notes": "Kayma dişi tüm temel tiplerinde, tekil temel planı, radye kalınlık düzeni, şehir etüt raporundan, kolon ayakları ankastre varsayılan, otomatik güncelleme.",
- "file": "UcelTemel-Kurulum-1.6.11.exe",
- "size": 97717188,
- "sha256": "fd15c9f2fc5c0e965759ed3599083fcb204ae24599906367402d3357253bb620",
+ "version": "1.6.12",
+ "notes": "Güncelleme artık kendiliğinden kurulur: indirme ilerlemesi pencere başlığında görünür, kurulum arka planda yapılır ve program yeniden açılır.",
+ "file": "UcelTemel-Kurulum-1.6.12.exe",
+ "size": 97717715,
+ "sha256": "f691d481bc6dd4b8f29d937446647fb0686e3b221bb5477468a551be4251b621",
  "parts": [
-  "surumler/UcelTemel-1.6.11.part0",
-  "surumler/UcelTemel-1.6.11.part1",
-  "surumler/UcelTemel-1.6.11.part2"
+  "surumler/UcelTemel-1.6.12.part0",
+  "surumler/UcelTemel-1.6.12.part1",
+  "surumler/UcelTemel-1.6.12.part2"
  ]
 }
