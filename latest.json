@@ -1,12 +1,12 @@
 {
- "version": "1.6.15",
- "notes": "Otomatik güncelleme daha güvenli (açık proje kaydedilir, başarısız kurulum döngüye girmez); karşılaştırma tablosu düzeni; çeviri tamamlandı.",
- "file": "UcelTemel-Kurulum-1.6.15.exe",
- "size": 97719983,
- "sha256": "91e5f013b9659d968b66b371b1abbed8a57295a4f257342fe5a3e6c57e6f7a62",
+ "version": "1.6.16",
+ "notes": "Hesap öncesi veri kontrolü; çökebilen zeminde ıslanma oturması ve zemin yastığı; ankraj deliği = bulon çapı + 2 mm.",
+ "file": "UcelTemel-Kurulum-1.6.16.exe",
+ "size": 97726585,
+ "sha256": "68dfd220e914bf76942669dc62e59523748f60c80949aa0c1a76f7843aaa7a15",
  "parts": [
-  "surumler/UcelTemel-1.6.15.part0",
-  "surumler/UcelTemel-1.6.15.part1",
-  "surumler/UcelTemel-1.6.15.part2"
+  "surumler/UcelTemel-1.6.16.part0",
+  "surumler/UcelTemel-1.6.16.part1",
+  "surumler/UcelTemel-1.6.16.part2"
  ]
 }
