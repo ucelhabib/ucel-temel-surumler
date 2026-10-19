@@ -1,12 +1,12 @@
 {
- "version": "1.6.13",
- "notes": "Güncellemeler artık otomatik: program arka planda indirir ve kendiliğinden kurar, soru sormaz.",
- "file": "UcelTemel-Kurulum-1.6.13.exe",
- "size": 97717968,
- "sha256": "851fa053d2c923237bfcb69b90dcdfebabc5f3a1d4f24b4efcd0aedc402444ca",
+ "version": "1.6.14",
+ "notes": "Sürüm yazısının yanında Güncelle düğmesi; ülke ve yönetmelik zemin etüdünden okunur; onay etiketleri sadeleşti; kolon ayağı seçimi üstte; zımbalama sonucu daha anlaşılır.",
+ "file": "UcelTemel-Kurulum-1.6.14.exe",
+ "size": 97718639,
+ "sha256": "75f5f283d1eda80eb111a10429ae5185cf11b05d46ba3d0693d54846a3fa36fa",
  "parts": [
-  "surumler/UcelTemel-1.6.13.part0",
-  "surumler/UcelTemel-1.6.13.part1",
-  "surumler/UcelTemel-1.6.13.part2"
+  "surumler/UcelTemel-1.6.14.part0",
+  "surumler/UcelTemel-1.6.14.part1",
+  "surumler/UcelTemel-1.6.14.part2"
  ]
 }
