@@ -1,12 +1,12 @@
 {
- "version": "1.6.17",
- "notes": "Tekla modeli (IFC) yükleme ve aplikasyonla karşılaştırma; hesap düğmesi kilitlenmez, veri kontrolüne yönlendirir; kalıcı yük oranı onayı.",
- "file": "UcelTemel-Kurulum-1.6.17.exe",
- "size": 97730776,
- "sha256": "b96b72c23693f3b30f905545be365968eea270b6a55114f90e764e618be074c4",
+ "version": "1.6.18",
+ "notes": "Tekla IFC4 modelleri doğru okunur: somun, ankraj ve levhalar kolon sayılmaz; aplikasyonla eşleştirme ve fazla kolon bildirimi.",
+ "file": "UcelTemel-Kurulum-1.6.18.exe",
+ "size": 97731549,
+ "sha256": "0a2daa55e9b0ed7c6db45dadfff8abd9ec5fd7cdc94af67b9fc17dc7b6caedc4",
  "parts": [
-  "surumler/UcelTemel-1.6.17.part0",
-  "surumler/UcelTemel-1.6.17.part1",
-  "surumler/UcelTemel-1.6.17.part2"
+  "surumler/UcelTemel-1.6.18.part0",
+  "surumler/UcelTemel-1.6.18.part1",
+  "surumler/UcelTemel-1.6.18.part2"
  ]
 }
