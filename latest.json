@@ -1,12 +1,12 @@
 {
- "version": "1.6.19",
- "notes": "Sonuçta tek ve kesin karar (Uygun / Uygun değil) ve ne yapılabileceği; statik hesabı olmayan çelik binalarda deprem ve rüzgâr yükleri Tekla modelinden; yeni rapor (karar özeti, veri ve kaynaklar); uygun değilse paket 'İç taslak' filigranlı; zımbalama ve ankraj hesap düzeltmeleri.",
- "file": "UcelTemel-Kurulum-1.6.19.exe",
- "size": 97768291,
- "sha256": "8a16ee234ece4c4ec8989d76495f25617b47fbea4bb4caf541c28ce381cff0f9",
+ "version": "1.6.20",
+ "notes": "Donma derinliği: radyede dış kenarlara donma eteği kendiliğinden (pafta, detay, metraj, 3B); sürekli temellerde taban donma derinliğinin altında. Ankraj: kesmede beton koparma ve kenar kırılması kontrolleri, yetmezse en hafif bulon düzeni / kenar taşırma / gömülme önerisi. Oturma СП 22 tam formülüyle.",
+ "file": "UcelTemel-Kurulum-1.6.20.exe",
+ "size": 97772822,
+ "sha256": "25aefcda7458809437aee0415e1d9a76748fe286c57f2f8d0ab85928c793b86b",
  "parts": [
-  "surumler/UcelTemel-1.6.19.part0",
-  "surumler/UcelTemel-1.6.19.part1",
-  "surumler/UcelTemel-1.6.19.part2"
+  "surumler/UcelTemel-1.6.20.part0",
+  "surumler/UcelTemel-1.6.20.part1",
+  "surumler/UcelTemel-1.6.20.part2"
  ]
 }
