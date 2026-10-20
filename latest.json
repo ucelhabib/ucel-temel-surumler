@@ -1,12 +1,12 @@
 {
- "version": "1.6.16",
- "notes": "Hesap öncesi veri kontrolü; çökebilen zeminde ıslanma oturması ve zemin yastığı; ankraj deliği = bulon çapı + 2 mm.",
- "file": "UcelTemel-Kurulum-1.6.16.exe",
- "size": 97726585,
- "sha256": "68dfd220e914bf76942669dc62e59523748f60c80949aa0c1a76f7843aaa7a15",
+ "version": "1.6.17",
+ "notes": "Tekla modeli (IFC) yükleme ve aplikasyonla karşılaştırma; hesap düğmesi kilitlenmez, veri kontrolüne yönlendirir; kalıcı yük oranı onayı.",
+ "file": "UcelTemel-Kurulum-1.6.17.exe",
+ "size": 97730776,
+ "sha256": "b96b72c23693f3b30f905545be365968eea270b6a55114f90e764e618be074c4",
  "parts": [
-  "surumler/UcelTemel-1.6.16.part0",
-  "surumler/UcelTemel-1.6.16.part1",
-  "surumler/UcelTemel-1.6.16.part2"
+  "surumler/UcelTemel-1.6.17.part0",
+  "surumler/UcelTemel-1.6.17.part1",
+  "surumler/UcelTemel-1.6.17.part2"
  ]
 }
