@@ -1,12 +1,12 @@
 {
- "version": "1.6.18",
- "notes": "Tekla IFC4 modelleri doğru okunur: somun, ankraj ve levhalar kolon sayılmaz; aplikasyonla eşleştirme ve fazla kolon bildirimi.",
- "file": "UcelTemel-Kurulum-1.6.18.exe",
- "size": 97731549,
- "sha256": "0a2daa55e9b0ed7c6db45dadfff8abd9ec5fd7cdc94af67b9fc17dc7b6caedc4",
+ "version": "1.6.19",
+ "notes": "Sonuçta tek ve kesin karar (Uygun / Uygun değil) ve ne yapılabileceği; statik hesabı olmayan çelik binalarda deprem ve rüzgâr yükleri Tekla modelinden; yeni rapor (karar özeti, veri ve kaynaklar); uygun değilse paket 'İç taslak' filigranlı; zımbalama ve ankraj hesap düzeltmeleri.",
+ "file": "UcelTemel-Kurulum-1.6.19.exe",
+ "size": 97768291,
+ "sha256": "8a16ee234ece4c4ec8989d76495f25617b47fbea4bb4caf541c28ce381cff0f9",
  "parts": [
-  "surumler/UcelTemel-1.6.18.part0",
-  "surumler/UcelTemel-1.6.18.part1",
-  "surumler/UcelTemel-1.6.18.part2"
+  "surumler/UcelTemel-1.6.19.part0",
+  "surumler/UcelTemel-1.6.19.part1",
+  "surumler/UcelTemel-1.6.19.part2"
  ]
 }
