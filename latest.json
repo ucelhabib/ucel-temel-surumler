@@ -1,12 +1,12 @@
 {
- "version": "1.6.20",
- "notes": "Donma derinliği: radyede dış kenarlara donma eteği kendiliğinden (pafta, detay, metraj, 3B); sürekli temellerde taban donma derinliğinin altında. Ankraj: kesmede beton koparma ve kenar kırılması kontrolleri, yetmezse en hafif bulon düzeni / kenar taşırma / gömülme önerisi. Oturma СП 22 tam formülüyle.",
- "file": "UcelTemel-Kurulum-1.6.20.exe",
- "size": 97772822,
- "sha256": "25aefcda7458809437aee0415e1d9a76748fe286c57f2f8d0ab85928c793b86b",
+ "version": "1.6.21",
+ "notes": "Silo yükleri: silo ölçüleri, ürün ve boş ağırlıkla ayaklara boş/dolu silo, rüzgâr ve deprem yükleri; raporda silo yükleri tablosu. Çelik modelde deprem kuvveti çapraz kapasitesiyle sınırlanır.",
+ "file": "UcelTemel-Kurulum-1.6.21.exe",
+ "size": 97779023,
+ "sha256": "9cfbaebe7a2f53b068bb603e3f466df444ca5501a22c78101a4202e2b96a4f62",
  "parts": [
-  "surumler/UcelTemel-1.6.20.part0",
-  "surumler/UcelTemel-1.6.20.part1",
-  "surumler/UcelTemel-1.6.20.part2"
+  "surumler/UcelTemel-1.6.21.part0",
+  "surumler/UcelTemel-1.6.21.part1",
+  "surumler/UcelTemel-1.6.21.part2"
  ]
 }
