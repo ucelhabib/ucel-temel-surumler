@@ -1,12 +1,12 @@
 {
- "version": "1.6.21",
- "notes": "Silo yükleri: silo ölçüleri, ürün ve boş ağırlıkla ayaklara boş/dolu silo, rüzgâr ve deprem yükleri; raporda silo yükleri tablosu. Çelik modelde deprem kuvveti çapraz kapasitesiyle sınırlanır.",
- "file": "UcelTemel-Kurulum-1.6.21.exe",
- "size": 97779023,
- "sha256": "9cfbaebe7a2f53b068bb603e3f466df444ca5501a22c78101a4202e2b96a4f62",
+ "version": "1.6.22",
+ "notes": "Programın koyduğu her değerin altında nereden geldiği ve nedeni yazar. Proje bilgileri 1. adımın başında. Yatay yüklerde rüzgâr hızı şehirden, q ve arazi kategorisi program tarafından; yalnız cephe seçilir. Oturma yetmezse zemin yastığı önerisi ve tek düğmeyle uygulama.",
+ "file": "UcelTemel-Kurulum-1.6.22.exe",
+ "size": 97785786,
+ "sha256": "fd7fcd20c0978972f8659ed6b929b206ea7ebaf67fdc593a924f993e3214f3c5",
  "parts": [
-  "surumler/UcelTemel-1.6.21.part0",
-  "surumler/UcelTemel-1.6.21.part1",
-  "surumler/UcelTemel-1.6.21.part2"
+  "surumler/UcelTemel-1.6.22.part0",
+  "surumler/UcelTemel-1.6.22.part1",
+  "surumler/UcelTemel-1.6.22.part2"
  ]
 }
