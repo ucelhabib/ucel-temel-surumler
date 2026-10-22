@@ -1,12 +1,12 @@
 {
- "version": "1.6.22",
- "notes": "Programın koyduğu her değerin altında nereden geldiği ve nedeni yazar. Proje bilgileri 1. adımın başında. Yatay yüklerde rüzgâr hızı şehirden, q ve arazi kategorisi program tarafından; yalnız cephe seçilir. Oturma yetmezse zemin yastığı önerisi ve tek düğmeyle uygulama.",
- "file": "UcelTemel-Kurulum-1.6.22.exe",
- "size": 97785786,
- "sha256": "fd7fcd20c0978972f8659ed6b929b206ea7ebaf67fdc593a924f993e3214f3c5",
+ "version": "2.0.0",
+ "notes": "Kolon yükleri artık Tekla modelinden (IFC) hesaplanır: aplikasyonda yük gerekmez; her katın kullanımı (makine, depo, yaya, çatı), beton döşeme ve silo ürünü sorulur. Kar yükü ülke ve şehirden. Hatalı veri girişinde program durur ve sorar: yük birimi, katsayılı/katsayısız yük, zemin türü kabulü, temel derinliği, temel geometrisi hataları adımın başında cevaplanmadan ilerlenmez.",
+ "file": "UcelTemel-Kurulum-2.0.0.exe",
+ "size": 97808581,
+ "sha256": "c598c3bb979a6ec63c37d22737bc8f37a5468a4d34a3117e6e670c2e47971631",
  "parts": [
-  "surumler/UcelTemel-1.6.22.part0",
-  "surumler/UcelTemel-1.6.22.part1",
-  "surumler/UcelTemel-1.6.22.part2"
+  "surumler/UcelTemel-2.0.0.part0",
+  "surumler/UcelTemel-2.0.0.part1",
+  "surumler/UcelTemel-2.0.0.part2"
  ]
 }
