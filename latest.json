@@ -1,12 +1,12 @@
 {
- "version": "2.1.4",
- "notes": "Zemin etüdü baştan sona okunur: tabaka parametre tablosu (c, φ, γ, Ms), yeraltı suyu, PGA, deprem zemin sınıfı, ülke, kazık önerisi. Raporda olmayan değer rapordan okunmuş gibi gösterilmez; hesaplananın altına nasıl bulunduğu yazılır. Etüt kazık öneriyorsa kazıklı temel tasarlanır: kazık sayısı ve yerleşimi, kazık başlıkları / kazıklı radye, bağ kirişleri, paftalar, hesap raporu, metraj, 3B ve IFC. Temel tabanı dolgu tabakasının altına iner. Şerit/ızgarada yatay yükle devrilme düzeltildi. Ankraj için plakalı bulon ve 10.9 önerileri. Deprem davranış katsayısı için statikçi onay düğmesi.",
- "file": "UcelTemel-Kurulum-2.1.4.exe",
- "size": 97866865,
- "sha256": "334d9ed50fad2a1906b01645394f2b0dddfb4c6026f66f42692c7febe091f310",
+ "version": "2.1.5",
+ "notes": "Ankraj çözümünü program uygular: genel bulonla sağlanmayan kolonlarda bulon çapı, sınıfı, adedi ve gerekiyorsa alt ucu plakalı tij seçilir; bulon aralığı sığmazsa düzen büyür, tipler azaltılır. Şablonlar, tij detayları, malzeme listesi, metraj, hesap raporu, 3B ve IFC bu tiplerle üretilir. Kazıklı temelde ankraj için gereken kenar uzaklığı ve kalınlık başlık tasarımına katılır. Hesap raporu kapağında temel tipi.",
+ "file": "UcelTemel-Kurulum-2.1.5.exe",
+ "size": 97870919,
+ "sha256": "0513c587bf172b624556fc87f14fc174996f72c66da9770d18d1b0f4308da5f1",
  "parts": [
-  "surumler/UcelTemel-2.1.4.part0",
-  "surumler/UcelTemel-2.1.4.part1",
-  "surumler/UcelTemel-2.1.4.part2"
+  "surumler/UcelTemel-2.1.5.part0",
+  "surumler/UcelTemel-2.1.5.part1",
+  "surumler/UcelTemel-2.1.5.part2"
  ]
 }
