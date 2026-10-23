@@ -1,12 +1,12 @@
 {
- "version": "2.0.0",
- "notes": "Kolon yükleri artık Tekla modelinden (IFC) hesaplanır: aplikasyonda yük gerekmez; her katın kullanımı (makine, depo, yaya, çatı), beton döşeme ve silo ürünü sorulur. Kar yükü ülke ve şehirden. Hatalı veri girişinde program durur ve sorar: yük birimi, katsayılı/katsayısız yük, zemin türü kabulü, temel derinliği, temel geometrisi hataları adımın başında cevaplanmadan ilerlenmez.",
- "file": "UcelTemel-Kurulum-2.0.0.exe",
- "size": 97808581,
- "sha256": "c598c3bb979a6ec63c37d22737bc8f37a5468a4d34a3117e6e670c2e47971631",
+ "version": "2.1.0",
+ "notes": "Soru-cevap: çizimi bırakınca program soruları tek tek sorar, cevapsız ilerlemez, sonda özet ve onay. Yapı türüne göre yük: katlı bina, hangar (vinç), bina içi şase, makine platformu, silo temeli; Tekla modeli yoksa yapı bilgisinden tahmin. Danışman: girilen değerleri hesaptan önce kontrol eder, uyarır, sorularınızı cevaplar (Claude hesabınızla; ilk kullanımda bir kez giriş). Program hesaplar; sonuç uygunsa doğrudan çıktılara geçer.",
+ "file": "UcelTemel-Kurulum-2.1.0.exe",
+ "size": 97830927,
+ "sha256": "fc5045ac011c268ad42ccd74571e75a98f2f6900d30cb3569de84a7461762cc5",
  "parts": [
-  "surumler/UcelTemel-2.0.0.part0",
-  "surumler/UcelTemel-2.0.0.part1",
-  "surumler/UcelTemel-2.0.0.part2"
+  "surumler/UcelTemel-2.1.0.part0",
+  "surumler/UcelTemel-2.1.0.part1",
+  "surumler/UcelTemel-2.1.0.part2"
  ]
 }
