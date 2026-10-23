@@ -1,12 +1,12 @@
 {
- "version": "2.1.2",
- "notes": "Tekla modeli okununca kolon yükleri kendiliğinden hesaplanır; silolar (sayı, yer, ölçü, yükseklik) modelden bulunur, yalnız ürün ve kontrol sorulur. Soru-cevapta dosyalar adımı: bütün dosyalar yüklenmeden ilerlenmez. Temel sınırını program belirler. Tekla DWG'leri (uzak pafta çerçevesi) okunur, bulon delikleri doğru sayılır. Modelde taban plakası ve bağlantılar yoksa %10 bağlantı payı.",
- "file": "UcelTemel-Kurulum-2.1.2.exe",
- "size": 97836077,
- "sha256": "214f6de1c6c2b0846cc16dcc64e71eb487d5d155408b53928bb2097086688035",
+ "version": "2.1.4",
+ "notes": "Zemin etüdü baştan sona okunur: tabaka parametre tablosu (c, φ, γ, Ms), yeraltı suyu, PGA, deprem zemin sınıfı, ülke, kazık önerisi. Raporda olmayan değer rapordan okunmuş gibi gösterilmez; hesaplananın altına nasıl bulunduğu yazılır. Etüt kazık öneriyorsa kazıklı temel tasarlanır: kazık sayısı ve yerleşimi, kazık başlıkları / kazıklı radye, bağ kirişleri, paftalar, hesap raporu, metraj, 3B ve IFC. Temel tabanı dolgu tabakasının altına iner. Şerit/ızgarada yatay yükle devrilme düzeltildi. Ankraj için plakalı bulon ve 10.9 önerileri. Deprem davranış katsayısı için statikçi onay düğmesi.",
+ "file": "UcelTemel-Kurulum-2.1.4.exe",
+ "size": 97866865,
+ "sha256": "334d9ed50fad2a1906b01645394f2b0dddfb4c6026f66f42692c7febe091f310",
  "parts": [
-  "surumler/UcelTemel-2.1.2.part0",
-  "surumler/UcelTemel-2.1.2.part1",
-  "surumler/UcelTemel-2.1.2.part2"
+  "surumler/UcelTemel-2.1.4.part0",
+  "surumler/UcelTemel-2.1.4.part1",
+  "surumler/UcelTemel-2.1.4.part2"
  ]
 }
