@@ -1,12 +1,12 @@
 {
- "version": "2.1.0",
- "notes": "Soru-cevap: çizimi bırakınca program soruları tek tek sorar, cevapsız ilerlemez, sonda özet ve onay. Yapı türüne göre yük: katlı bina, hangar (vinç), bina içi şase, makine platformu, silo temeli; Tekla modeli yoksa yapı bilgisinden tahmin. Danışman: girilen değerleri hesaptan önce kontrol eder, uyarır, sorularınızı cevaplar (Claude hesabınızla; ilk kullanımda bir kez giriş). Program hesaplar; sonuç uygunsa doğrudan çıktılara geçer.",
- "file": "UcelTemel-Kurulum-2.1.0.exe",
- "size": 97830927,
- "sha256": "fc5045ac011c268ad42ccd74571e75a98f2f6900d30cb3569de84a7461762cc5",
+ "version": "2.1.2",
+ "notes": "Tekla modeli okununca kolon yükleri kendiliğinden hesaplanır; silolar (sayı, yer, ölçü, yükseklik) modelden bulunur, yalnız ürün ve kontrol sorulur. Soru-cevapta dosyalar adımı: bütün dosyalar yüklenmeden ilerlenmez. Temel sınırını program belirler. Tekla DWG'leri (uzak pafta çerçevesi) okunur, bulon delikleri doğru sayılır. Modelde taban plakası ve bağlantılar yoksa %10 bağlantı payı.",
+ "file": "UcelTemel-Kurulum-2.1.2.exe",
+ "size": 97836077,
+ "sha256": "214f6de1c6c2b0846cc16dcc64e71eb487d5d155408b53928bb2097086688035",
  "parts": [
-  "surumler/UcelTemel-2.1.0.part0",
-  "surumler/UcelTemel-2.1.0.part1",
-  "surumler/UcelTemel-2.1.0.part2"
+  "surumler/UcelTemel-2.1.2.part0",
+  "surumler/UcelTemel-2.1.2.part1",
+  "surumler/UcelTemel-2.1.2.part2"
  ]
 }
