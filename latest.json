@@ -1,12 +1,12 @@
 {
- "version": "2.1.5",
- "notes": "Ankraj çözümünü program uygular: genel bulonla sağlanmayan kolonlarda bulon çapı, sınıfı, adedi ve gerekiyorsa alt ucu plakalı tij seçilir; bulon aralığı sığmazsa düzen büyür, tipler azaltılır. Şablonlar, tij detayları, malzeme listesi, metraj, hesap raporu, 3B ve IFC bu tiplerle üretilir. Kazıklı temelde ankraj için gereken kenar uzaklığı ve kalınlık başlık tasarımına katılır. Hesap raporu kapağında temel tipi.",
- "file": "UcelTemel-Kurulum-2.1.5.exe",
- "size": 97870919,
- "sha256": "0513c587bf172b624556fc87f14fc174996f72c66da9770d18d1b0f4308da5f1",
+ "version": "2.1.6",
+ "notes": "Program artık hesap öncesi soru sormaz: bilinebilen ya da güvenli tarafta seçilebilen konuları kendisi karara bağlar, kararını gerekçesiyle yazar ve hesabı kendiliğinden başlatır; girdi değişince hesap kendiliğinden yenilenir. Paftalar: antet her paftada sağ alt köşede; radye planı 1/50'de, sığmayınca kesitler ve detaylar ayrı paftaya alınır (1/100'e küçültülmez); donatı çizelgesi kâğıdı tam kullanır; kiriş açılım paftaları dengeli dağıtılır; etriye bölgeleri ölçü çizgisinde; kazık başlık adları sade, metraj aynı paftada. Etüt derinliğine kadar temel altı granüler dolgu kararı paftada, kesitte ve metrajda. Büyük projelerde hesap sırasında oluşan bellek taşması (ekranın çökmesi) giderildi. Beş dilde çeviri ve yazı sığdırma düzeltmeleri.",
+ "file": "UcelTemel-Kurulum-2.1.6.exe",
+ "size": 97880695,
+ "sha256": "6eac5aaaeb448a2433c9e2ee24d890fb13bcd745e14f0ef04bf5c1f5c67be3d2",
  "parts": [
-  "surumler/UcelTemel-2.1.5.part0",
-  "surumler/UcelTemel-2.1.5.part1",
-  "surumler/UcelTemel-2.1.5.part2"
+  "surumler/UcelTemel-2.1.6.part0",
+  "surumler/UcelTemel-2.1.6.part1",
+  "surumler/UcelTemel-2.1.6.part2"
  ]
 }
