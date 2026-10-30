@@ -1,12 +1,12 @@
 {
- "version": "2.1.10",
- "notes": "Danışman kaldırıldı. Tekla modelinden yük hesaplanan projelerde kullanımı seçilmemiş her kat (ve silo ürünü) ayrı onay maddesi oldu; seçilmeden hesap başlamaz (program artık sessizce 'makine katı' kabul etmez). Çaprazlı açıklık tanısı: deprem/rüzgâr kuvveti kolon yükünün 3 katını aşan açıklıklar çelik tasarımına not olarak listelenir. Radye en büyük kalınlıkta dayanımı sağlayamıyorsa program kazıklı temeli kendisi dener. Hiçbir temel tipi sağlamıyorsa 'Çözüm için ne değişmeli' özeti verilir. Etüt değerleri arşiv verisine dayanıyorsa bildirilir. 1 m üstü radye kalınlığı 10 cm adımla aranır (kalın radyelerde hesap yaklaşık yarı sürede).",
- "file": "UcelTemel-Kurulum-2.1.10.exe",
- "size": 97887609,
- "sha256": "50b759f0620df368d490b9514c06d4c89f1b13e7da29b702a0e71de30cf4b323",
+ "version": "2.1.11",
+ "notes": "Antet: işveren logosu (antetteki İşveren kutusuna basılır) ve çizen firma seçimi. Varsayılan Üçel Metal; başka firma seçilirse unvan, adres, iletişim, lisans no, logo ve belge kodu antete, kapağa, rapora ve teslim yazısına geçer (belge numarası firmanın koduyla). Çözüm panelinde hesap yenilenirken düğmeye basılınca oluşan hata giderildi.",
+ "file": "UcelTemel-Kurulum-2.1.11.exe",
+ "size": 97888792,
+ "sha256": "08f9b5a443d0ffb34810b3f80a43a50d47a17c8a935c5adce9242dc0dd1ca888",
  "parts": [
-  "surumler/UcelTemel-2.1.10.part0",
-  "surumler/UcelTemel-2.1.10.part1",
-  "surumler/UcelTemel-2.1.10.part2"
+  "surumler/UcelTemel-2.1.11.part0",
+  "surumler/UcelTemel-2.1.11.part1",
+  "surumler/UcelTemel-2.1.11.part2"
  ]
 }
