@@ -1,12 +1,12 @@
 {
- "version": "2.1.9",
- "notes": "Tekla modelinden (IFC) okuma düzeltildi: köşe/kenar aksesuarları (L korniyer, 'AKSESUAR') ve aks dışındaki küçük boru dikmeler (merdiven, platform ayağı) artık temel kolonu sayılmıyor. Modelde taban levhası ve bulon yoksa Üçel aplikasyon standardı kullanılıyor (HEA ≤240: 390 mm, 4 bulon · 260–300: 490 mm, 8 bulon · 340: 550 mm, 10 bulon); 092 REV06'da 75 kolonun adı, levhası ve bulon düzeni aplikasyonla birebir aynı. Hesap bulon aralığını büyüttüğünde ankraj şablonundaki levha da büyütülüyor (bulonlar levha kenarına taşmıyor).",
- "file": "UcelTemel-Kurulum-2.1.9.exe",
- "size": 97890544,
- "sha256": "2066f8f55d4706c46bc0204fca29d5efae80c9cb85534f82f68b661d9180bbc0",
+ "version": "2.1.10",
+ "notes": "Danışman kaldırıldı. Tekla modelinden yük hesaplanan projelerde kullanımı seçilmemiş her kat (ve silo ürünü) ayrı onay maddesi oldu; seçilmeden hesap başlamaz (program artık sessizce 'makine katı' kabul etmez). Çaprazlı açıklık tanısı: deprem/rüzgâr kuvveti kolon yükünün 3 katını aşan açıklıklar çelik tasarımına not olarak listelenir. Radye en büyük kalınlıkta dayanımı sağlayamıyorsa program kazıklı temeli kendisi dener. Hiçbir temel tipi sağlamıyorsa 'Çözüm için ne değişmeli' özeti verilir. Etüt değerleri arşiv verisine dayanıyorsa bildirilir. 1 m üstü radye kalınlığı 10 cm adımla aranır (kalın radyelerde hesap yaklaşık yarı sürede).",
+ "file": "UcelTemel-Kurulum-2.1.10.exe",
+ "size": 97887609,
+ "sha256": "50b759f0620df368d490b9514c06d4c89f1b13e7da29b702a0e71de30cf4b323",
  "parts": [
-  "surumler/UcelTemel-2.1.9.part0",
-  "surumler/UcelTemel-2.1.9.part1",
-  "surumler/UcelTemel-2.1.9.part2"
+  "surumler/UcelTemel-2.1.10.part0",
+  "surumler/UcelTemel-2.1.10.part1",
+  "surumler/UcelTemel-2.1.10.part2"
  ]
 }
