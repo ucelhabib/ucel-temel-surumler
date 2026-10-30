@@ -1,12 +1,12 @@
 {
- "version": "2.1.8",
- "notes": "Kolon aplikasyonu olmadan da başlanır: Tekla modeli (IFC) tek başına bırakılınca kolonlar, akslar ve kolon yükleri modelden alınır. Akslar modeldeki aks ağından, yoksa kolon sıralarından adlandırılır (1, 2, 3… / A, B, C…); modelde taban levhası ve ankraj bulonu varsa onlar da okunur. Aplikasyon çizimi sonradan bırakılırsa model ve zemin etüdü yeniden okunup ikisi karşılaştırılır. Rapor kolon yerlerinin Tekla modelinden alındığını yazar.",
- "file": "UcelTemel-Kurulum-2.1.8.exe",
- "size": 97889740,
- "sha256": "80dcfe0de4d1d7f0cb112b335c4c094db96e9d181975eb49df353a314ce90b58",
+ "version": "2.1.9",
+ "notes": "Tekla modelinden (IFC) okuma düzeltildi: köşe/kenar aksesuarları (L korniyer, 'AKSESUAR') ve aks dışındaki küçük boru dikmeler (merdiven, platform ayağı) artık temel kolonu sayılmıyor. Modelde taban levhası ve bulon yoksa Üçel aplikasyon standardı kullanılıyor (HEA ≤240: 390 mm, 4 bulon · 260–300: 490 mm, 8 bulon · 340: 550 mm, 10 bulon); 092 REV06'da 75 kolonun adı, levhası ve bulon düzeni aplikasyonla birebir aynı. Hesap bulon aralığını büyüttüğünde ankraj şablonundaki levha da büyütülüyor (bulonlar levha kenarına taşmıyor).",
+ "file": "UcelTemel-Kurulum-2.1.9.exe",
+ "size": 97890544,
+ "sha256": "2066f8f55d4706c46bc0204fca29d5efae80c9cb85534f82f68b661d9180bbc0",
  "parts": [
-  "surumler/UcelTemel-2.1.8.part0",
-  "surumler/UcelTemel-2.1.8.part1",
-  "surumler/UcelTemel-2.1.8.part2"
+  "surumler/UcelTemel-2.1.9.part0",
+  "surumler/UcelTemel-2.1.9.part1",
+  "surumler/UcelTemel-2.1.9.part2"
  ]
 }
