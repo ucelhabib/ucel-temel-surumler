@@ -1,12 +1,12 @@
 {
- "version": "2.1.7",
- "notes": "Oturma ya da çökme sınırı yüzeysel temelle sağlanamıyorsa program üç çözümü de hesaplar ve en uygununu kendisi uygular: zemin yastığı (kalınlığı program bulur) ya da kazıklı temel. Etüt kazık değeri vermiyorsa kazık çapı, boyu ve izin verilen yükü zemin parametrelerinden tahmin edilir; tahmin paftada, raporda ve ekranda geoteknik onayı gerektiği notuyla yazılır, yetmezse daha uzun kazık ya da öteki çözüm denenir. Teklif için öteki iki seçeneğe (ve uyarıyla devama) tek düğmeyle geçilir. Çözümsüz kazık tasarımında üst üste binen başlıklar yerine tek kazıklı radye. 3B görünüm yalnız görüntü değişince çizilir; büyük projelerde müşteri paketi çok daha hızlı hazırlanır.",
- "file": "UcelTemel-Kurulum-2.1.7.exe",
- "size": 97886844,
- "sha256": "55b64d3c12bff89dc3212628bfe84c079af463afdb62248a5ccb73d5dfa04777",
+ "version": "2.1.8",
+ "notes": "Kolon aplikasyonu olmadan da başlanır: Tekla modeli (IFC) tek başına bırakılınca kolonlar, akslar ve kolon yükleri modelden alınır. Akslar modeldeki aks ağından, yoksa kolon sıralarından adlandırılır (1, 2, 3… / A, B, C…); modelde taban levhası ve ankraj bulonu varsa onlar da okunur. Aplikasyon çizimi sonradan bırakılırsa model ve zemin etüdü yeniden okunup ikisi karşılaştırılır. Rapor kolon yerlerinin Tekla modelinden alındığını yazar.",
+ "file": "UcelTemel-Kurulum-2.1.8.exe",
+ "size": 97889740,
+ "sha256": "80dcfe0de4d1d7f0cb112b335c4c094db96e9d181975eb49df353a314ce90b58",
  "parts": [
-  "surumler/UcelTemel-2.1.7.part0",
-  "surumler/UcelTemel-2.1.7.part1",
-  "surumler/UcelTemel-2.1.7.part2"
+  "surumler/UcelTemel-2.1.8.part0",
+  "surumler/UcelTemel-2.1.8.part1",
+  "surumler/UcelTemel-2.1.8.part2"
  ]
 }
