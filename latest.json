@@ -1,12 +1,12 @@
 {
- "version": "2.1.11",
- "notes": "Antet: işveren logosu (antetteki İşveren kutusuna basılır) ve çizen firma seçimi. Varsayılan Üçel Metal; başka firma seçilirse unvan, adres, iletişim, lisans no, logo ve belge kodu antete, kapağa, rapora ve teslim yazısına geçer (belge numarası firmanın koduyla). Çözüm panelinde hesap yenilenirken düğmeye basılınca oluşan hata giderildi.",
- "file": "UcelTemel-Kurulum-2.1.11.exe",
- "size": 97888792,
- "sha256": "08f9b5a443d0ffb34810b3f80a43a50d47a17c8a935c5adce9242dc0dd1ca888",
+ "version": "2.1.12",
+ "notes": "Sonuç kartı: rüzgâr/deprem reaksiyonu girilmemiş projelerde karar \"düşey yükler için uygun — ön proje\" olarak verilir. Derzli radyelerde derzsiz çözüm de kendiliğinden hesaplanıp karşılaştırılır. Yakın kolon çiftlerinde ortak zımbalama kontrolü. Kayma takozlarında beton kopma kontrolü ve kenar firketeleri. Dolgu ve doğal zeminde ortalama / kolon altı yerel basınç ayrı denetlenir; kalınlık aramasına yerel zemin gerilmesi eklendi; dolgunun yetmediği bloklarda temel altı C8/10 doldurma betonu (rapor, metraj, pafta notu). ACI donatı ve aralık düzeltmeleri, kazık tabaka tabaka taşıma gücü, bağ kirişi ve çeviri düzeltmeleri. Büyük projelerde hesap süresi uyarısı.",
+ "file": "UcelTemel-Kurulum-2.1.12.exe",
+ "size": 97949582,
+ "sha256": "9b0983a7e5563b7462bfcd23591ab160506584808a184e6481c29902dc47aa96",
  "parts": [
-  "surumler/UcelTemel-2.1.11.part0",
-  "surumler/UcelTemel-2.1.11.part1",
-  "surumler/UcelTemel-2.1.11.part2"
+  "surumler/UcelTemel-2.1.12.part0",
+  "surumler/UcelTemel-2.1.12.part1",
+  "surumler/UcelTemel-2.1.12.part2"
  ]
 }
