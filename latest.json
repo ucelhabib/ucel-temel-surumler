@@ -1,12 +1,12 @@
 {
- "version": "2.1.14",
- "notes": "Hız: hesap belirgin şekilde hızlandı; ilk dakikalarda ÖN SONUÇ gösterilir, uzun bekleyip olumsuz sonuçla karşılaşma ortadan kalktı. Temel derinliğini program belirler: etüt varsa raporu, yoksa don derinliği ve bitkisel toprağı esas alır; taşıma gücü yetmezse temeli genişletmeden önce ekonomik derinleştirmeyi dener. Çelik yapı deprem kuvveti tahmini yapı periyodu, zemin sınıfı ve spektruma göre hesaplanır; çift sayılan kuvvetler düzeltildi. Yeraltı suyu: kaldırma (yüzme) kontrolü, inşaat aşaması kontrolü, kaymada su etkisi, kuyu duvarlarına su basıncı, su yalıtımı metrajı ve sıvılaşma uyarısı eklendi. Depremde zemin gerilmesi kontrolü ortalama ve yerel değerle yapılır. Zımbalama ve çizim etiketi çakışmaları düzeltildi.",
- "file": "UcelTemel-Kurulum-2.1.14.exe",
- "size": 97966614,
- "sha256": "91edc840f84b12e81176745227186dca492979b8251cdddf2f6b06ce3d89086a",
+ "version": "2.2.0",
+ "notes": "Yeni ekran akışı: dört adım — Dosyalar, Sorular, Sonuç, Teslim. Dosyalar adımında kolon aplikasyonu, Tekla modeli ve zemin etüdü bırakılır; program her birini tanır ve okuduklarını gösterir. Sorular adımında yalnız dosyalarda olmayan ve sonucu değiştiren bilgiler sorulur (proje yeri, zemin etüdü, kat kullanımı, dosyalar arası çelişkiler); her sorunun yanında neden sorulduğu yazar. Programın kendi verdiği kararlar ve ayrıntılı girdiler kapalı bölümlerde durur, istenirse açılıp değiştirilir. Sonuç adımında karar en üstte; uygun değilse sorunun kaynağı (üst yapı, zemin ya da temel boyutları) ve yapılacak iş yazılır. Proje bilgileri Teslim adımına taşındı.",
+ "file": "UcelTemel-Kurulum-2.2.0.exe",
+ "size": 97968611,
+ "sha256": "0596bf705b4b2df973eb2aa290a6741cfbacfb38c50f6b7cdb763864092e8848",
  "parts": [
-  "surumler/UcelTemel-2.1.14.part0",
-  "surumler/UcelTemel-2.1.14.part1",
-  "surumler/UcelTemel-2.1.14.part2"
+  "surumler/UcelTemel-2.2.0.part0",
+  "surumler/UcelTemel-2.2.0.part1",
+  "surumler/UcelTemel-2.2.0.part2"
  ]
 }
