@@ -1,12 +1,12 @@
 {
- "version": "2.2.2",
- "notes": "Radye dilatasyonla bloklara ayrılıyorsa Sorular adımında hesaptan önce \"Radye kalınlığı: tek kalınlık mı?\" diye sorulur: \"Tek kalınlık\" seçilirse hesap bir kez, doğrudan tek kalınlıkla yapılır; \"Program seçsin\" seçilirse ekonomik olan seçilir. Soru cevaplanmadan hesap kendiliğinden başlamaz. Ayrıca: Bina içi makine şasesinde kar, rüzgâr ve donma alınmaz; deprem alınır.",
- "file": "UcelTemel-Kurulum-2.2.2.exe",
- "size": 97973804,
- "sha256": "62a922630aa6817cd4e19c1fd6c1483cd00f38db92e86d80a8e56064a18b071e",
+ "version": "2.2.3",
+ "notes": "Düzeltmeler: Sonuç adımında hesap kendiliğinden başlar; zemin taşımadığında program kazık / zemin yastığı seçince hesap yeniden başlar (2.2.2'de duruyordu). Şablon ve 3B modelde DWG/IFC'deki gerçek bulon delik yerleri kullanılır (eski projelerde dosyayı bir kez yeniden bırakın). İlave, KK ve çevre U donatıları pas payı içinde; asansör çukurunda hasır ve sehpa yok; 12 m'yi aşan ilave çubuklar bindirmeli bölünür. DWG Model sekmesinde açılır, ortalı yazılar kaymaz. Donatı çizelgesi daha küçük kâğıda sığar, yazı çakışmaları giderildi.",
+ "file": "UcelTemel-Kurulum-2.2.3.exe",
+ "size": 97975781,
+ "sha256": "b4fe675b4502e9e5dfca43accf47aa9fb36023860ccb74ae3f99aa956531d861",
  "parts": [
-  "surumler/UcelTemel-2.2.2.part0",
-  "surumler/UcelTemel-2.2.2.part1",
-  "surumler/UcelTemel-2.2.2.part2"
+  "surumler/UcelTemel-2.2.3.part0",
+  "surumler/UcelTemel-2.2.3.part1",
+  "surumler/UcelTemel-2.2.3.part2"
  ]
 }
