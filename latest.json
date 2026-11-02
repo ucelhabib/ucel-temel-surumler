@@ -1,12 +1,12 @@
 {
- "version": "2.2.0",
- "notes": "Yeni ekran akışı: dört adım — Dosyalar, Sorular, Sonuç, Teslim. Dosyalar adımında kolon aplikasyonu, Tekla modeli ve zemin etüdü bırakılır; program her birini tanır ve okuduklarını gösterir. Sorular adımında yalnız dosyalarda olmayan ve sonucu değiştiren bilgiler sorulur (proje yeri, zemin etüdü, kat kullanımı, dosyalar arası çelişkiler); her sorunun yanında neden sorulduğu yazar. Programın kendi verdiği kararlar ve ayrıntılı girdiler kapalı bölümlerde durur, istenirse açılıp değiştirilir. Sonuç adımında karar en üstte; uygun değilse sorunun kaynağı (üst yapı, zemin ya da temel boyutları) ve yapılacak iş yazılır. Proje bilgileri Teslim adımına taşındı.",
- "file": "UcelTemel-Kurulum-2.2.0.exe",
- "size": 97968611,
- "sha256": "0596bf705b4b2df973eb2aa290a6741cfbacfb38c50f6b7cdb763864092e8848",
+ "version": "2.2.1",
+ "notes": "Bina içi makine şasesi: Sorular adımında \"Yapı nerede duruyor?\" sorusuna \"Bina içi makine şasesi (silolu ya da silosuz)\" cevabı verilince kar, rüzgâr ve donma hesaba katılmaz, deprem aynen alınır; temel en az 50 cm'den başlar. Bina mevcut da olsa işveren yapacak da olsa aynı şekilde hesaplanır. Kazık gerekirse bina içi kazık makinesi yükseklik uyarısı verilir ve zemin yastığı öne alınır. Rapor ve paftalara ilgili notlar eklenir.",
+ "file": "UcelTemel-Kurulum-2.2.1.exe",
+ "size": 97972662,
+ "sha256": "c06ad6a7c02f0027c9982ae087ac954a72e296d62c3df416fa93e8e2e633dc89",
  "parts": [
-  "surumler/UcelTemel-2.2.0.part0",
-  "surumler/UcelTemel-2.2.0.part1",
-  "surumler/UcelTemel-2.2.0.part2"
+  "surumler/UcelTemel-2.2.1.part0",
+  "surumler/UcelTemel-2.2.1.part1",
+  "surumler/UcelTemel-2.2.1.part2"
  ]
 }
