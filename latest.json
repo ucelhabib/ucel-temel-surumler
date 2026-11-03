@@ -1,12 +1,12 @@
 {
- "version": "2.2.3",
- "notes": "Düzeltmeler: Sonuç adımında hesap kendiliğinden başlar; zemin taşımadığında program kazık / zemin yastığı seçince hesap yeniden başlar (2.2.2'de duruyordu). Şablon ve 3B modelde DWG/IFC'deki gerçek bulon delik yerleri kullanılır (eski projelerde dosyayı bir kez yeniden bırakın). İlave, KK ve çevre U donatıları pas payı içinde; asansör çukurunda hasır ve sehpa yok; 12 m'yi aşan ilave çubuklar bindirmeli bölünür. DWG Model sekmesinde açılır, ortalı yazılar kaymaz. Donatı çizelgesi daha küçük kâğıda sığar, yazı çakışmaları giderildi.",
- "file": "UcelTemel-Kurulum-2.2.3.exe",
- "size": 97975781,
- "sha256": "b4fe675b4502e9e5dfca43accf47aa9fb36023860ccb74ae3f99aa956531d861",
+ "version": "2.2.4",
+ "notes": "Mühendislik denetimi: zemin yalnız basınç taşır (kalkma bölgesi yeniden çözülür, %50 sınırı); çatı emmesi ayrı yük durumu; silo yükü tam dolu hacim ve EN 1991-4 birim ağırlığıyla, silolar dolu/boş gruplarla, ayaklı siloda q ≤ 2; L blokta iç köşe zımbalaması; çukur genel eğilme ve ağız takviyesi; titreşimli makine kontrolü; ankraj EN 1992-4 (yarılma, patlama, etkileşim, kesme askı firketesi); deprem kapasite büyütmesi tüm yönetmeliklerde; rüzgâr hızı / donma derinliği / zemin değeri eksikse sorulur; pas payı ve beton sınıfı alt sınırları. Yeni: Saha dosyası (aplikasyon, harfiyat, döküm, beton siparişi, numune, kür, toleranslar, kontrol listeleri, ankraj ölçüm formu, topraklama, iş programı), harfiyat paftası, BS 8666 şekil kodu ve kesim boyu, 12 m kesim planı. Ön projede paftalar 'uygulamaya verilmez' damgalı.",
+ "file": "UcelTemel-Kurulum-2.2.4.exe",
+ "size": 98020306,
+ "sha256": "4149c5212c9d4d9958002bed1be87169741268a67c7bdd32819d1101f8f919da",
  "parts": [
-  "surumler/UcelTemel-2.2.3.part0",
-  "surumler/UcelTemel-2.2.3.part1",
-  "surumler/UcelTemel-2.2.3.part2"
+  "surumler/UcelTemel-2.2.4.part0",
+  "surumler/UcelTemel-2.2.4.part1",
+  "surumler/UcelTemel-2.2.4.part2"
  ]
 }
