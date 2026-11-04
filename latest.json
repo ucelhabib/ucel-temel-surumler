@@ -1,12 +1,12 @@
 {
- "version": "2.3.0",
- "notes": "Ankraj: çizimdeki taban plakası ve bulon düzeni (sayı, çap, yerleşim) korunur; şablonlar çizimle aynı. Köşe kolonlarında çekme + kesme askı/kesme firketesiyle çözülür, temel kalınlaştırılmaz (kolon altı en çok +50 cm). Kazık başlığı ankraj için büyütülürken önceki kenarlar küçülmez.",
- "file": "UcelTemel-Kurulum-2.3.0.exe",
- "size": 98050667,
- "sha256": "a09bcba6eeff0b7699dd839874ce31399d4615d5529bda1c066bd75db6326578",
+ "version": "2.3.1",
+ "notes": "Bağımsız ikinci hesap: her sonuç elle hesap formülleriyle yeniden denetlenir (zemin gerilmesi, kazık yükü, ankraj çekmesi, bulon çeliği, bulon düzeninin çizimle aynılığı, metraj, makul kalınlıklar). Asıl hesap güvensiz tarafta ayrışırsa sonuç uygun değil olur ve müşteri paketi çıkmaz.",
+ "file": "UcelTemel-Kurulum-2.3.1.exe",
+ "size": 98053014,
+ "sha256": "4ed579310a60be19a0be3b71ba561d563cfe38e5c3719348ee10155c906ac982",
  "parts": [
-  "surumler/UcelTemel-2.3.0.part0",
-  "surumler/UcelTemel-2.3.0.part1",
-  "surumler/UcelTemel-2.3.0.part2"
+  "surumler/UcelTemel-2.3.1.part0",
+  "surumler/UcelTemel-2.3.1.part1",
+  "surumler/UcelTemel-2.3.1.part2"
  ]
 }
