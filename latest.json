@@ -1,12 +1,12 @@
 {
- "version": "2.2.6",
- "notes": "Tekla modeli (IFC) artık projeyle saklanır: proje yeniden açılınca eskimiş kolon yükleri ve yatay yükler kendiliğinden yeniden hesaplanır (düğmeye basmak gerekmez; hesaplanamıyorsa nedeni yazılır). Zemin etüdü Word (.docx) olarak da okunur; dosyalar WhatsApp'tan kopyala-yapıştır ile eklenebilir. Sırbistan: 50 şehir için SRPS EN 1991-1-4/NA:2017 temel rüzgâr hızı. Kazakistan: 55 şehir СП РК 2.03-30-2017* zemin tipine göre deprem ivmesi. Rüzgâr hızı artık 'etütten okunamayan değer' olarak sorulmaz.",
- "file": "UcelTemel-Kurulum-2.2.6.exe",
- "size": 98042739,
- "sha256": "ffca3ef9a48ba632a9afd55a844805e008ac0a24d0f50b1adf53d191f0727fe8",
+ "version": "2.2.7",
+ "notes": "Statik hesap kolon tepkileri Excel'den okunur (SAP2000 / ETABS: Joint Reactions yük durumları + Joint Coordinates; düğümler kolonlara konumdan eşlenir, birimler çevrilir). Temel tipi seçiminde kazıklı temel. Kazık başlığında donatı sığmazsa başlık kendiliğinden kalınlaşır. Şehir zemin etüdünden bulunur (rüzgâr, kar, deprem şehirden gelir). Radyede ankraj için kolon altı kalınlaştırma 1,2 m'ye kadar. Kazıklı temel hesaplanıp uygun çıkmadıysa çözüm kartı nedenini yazar.",
+ "file": "UcelTemel-Kurulum-2.2.7.exe",
+ "size": 98049948,
+ "sha256": "7c425d92e318545ad47f4a798870b153c1f88b803c1533b9362776aad25f214a",
  "parts": [
-  "surumler/UcelTemel-2.2.6.part0",
-  "surumler/UcelTemel-2.2.6.part1",
-  "surumler/UcelTemel-2.2.6.part2"
+  "surumler/UcelTemel-2.2.7.part0",
+  "surumler/UcelTemel-2.2.7.part1",
+  "surumler/UcelTemel-2.2.7.part2"
  ]
 }
