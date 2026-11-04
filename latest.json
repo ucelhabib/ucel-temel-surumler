@@ -1,12 +1,12 @@
 {
- "version": "2.3.1",
- "notes": "Bağımsız ikinci hesap: her sonuç elle hesap formülleriyle yeniden denetlenir (zemin gerilmesi, kazık yükü, ankraj çekmesi, bulon çeliği, bulon düzeninin çizimle aynılığı, metraj, makul kalınlıklar). Asıl hesap güvensiz tarafta ayrışırsa sonuç uygun değil olur ve müşteri paketi çıkmaz.",
- "file": "UcelTemel-Kurulum-2.3.1.exe",
- "size": 98053014,
- "sha256": "4ed579310a60be19a0be3b71ba561d563cfe38e5c3719348ee10155c906ac982",
+ "version": "2.3.2",
+ "notes": "İkinci hesaba zımbalama (2d kontrol çevresinde, zemin tepkisi düşülerek; kenar/köşe kolonlarında kısaltılmış çevre) ve eğilme (kolon açıklığında q·l²/8 ile üst + alt donatı kapasitesi) denetimi eklendi. Asıl hesap güvensiz tarafta ayrışırsa sonuç uygun değil, paket çıkmaz.",
+ "file": "UcelTemel-Kurulum-2.3.2.exe",
+ "size": 98053043,
+ "sha256": "dbe6c80be856b64c575687ec48310f1c54d41a87cfe286a7507d7e478553d4a1",
  "parts": [
-  "surumler/UcelTemel-2.3.1.part0",
-  "surumler/UcelTemel-2.3.1.part1",
-  "surumler/UcelTemel-2.3.1.part2"
+  "surumler/UcelTemel-2.3.2.part0",
+  "surumler/UcelTemel-2.3.2.part1",
+  "surumler/UcelTemel-2.3.2.part2"
  ]
 }
