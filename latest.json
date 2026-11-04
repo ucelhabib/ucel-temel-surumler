@@ -1,12 +1,12 @@
 {
- "version": "2.2.9",
- "notes": "Excel'den statik hesap tepkileri yüklenince 'Çizimden okunanlar' kartları ve uyarılar yenilenir; ülke ve şehir etütten okununca kart güncellenir. Statik hesapta rüzgâr yükü varsa yapı açık arazide kabul edilir (soru sorulmaz). Excel yüklenince Tekla modelinden hesaplanmış eski yatay yükler silinir.",
- "file": "UcelTemel-Kurulum-2.2.9.exe",
- "size": 98050196,
- "sha256": "2878618e4eb4c2d8f5db9c7fbb36eb3870bdc8f1bdefdc7ebf51692034dc3d50",
+ "version": "2.3.0",
+ "notes": "Ankraj: çizimdeki taban plakası ve bulon düzeni (sayı, çap, yerleşim) korunur; şablonlar çizimle aynı. Köşe kolonlarında çekme + kesme askı/kesme firketesiyle çözülür, temel kalınlaştırılmaz (kolon altı en çok +50 cm). Kazık başlığı ankraj için büyütülürken önceki kenarlar küçülmez.",
+ "file": "UcelTemel-Kurulum-2.3.0.exe",
+ "size": 98050667,
+ "sha256": "a09bcba6eeff0b7699dd839874ce31399d4615d5529bda1c066bd75db6326578",
  "parts": [
-  "surumler/UcelTemel-2.2.9.part0",
-  "surumler/UcelTemel-2.2.9.part1",
-  "surumler/UcelTemel-2.2.9.part2"
+  "surumler/UcelTemel-2.3.0.part0",
+  "surumler/UcelTemel-2.3.0.part1",
+  "surumler/UcelTemel-2.3.0.part2"
  ]
 }
