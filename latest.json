@@ -1,12 +1,12 @@
 {
- "version": "2.2.7",
- "notes": "Statik hesap kolon tepkileri Excel'den okunur (SAP2000 / ETABS: Joint Reactions yük durumları + Joint Coordinates; düğümler kolonlara konumdan eşlenir, birimler çevrilir). Temel tipi seçiminde kazıklı temel. Kazık başlığında donatı sığmazsa başlık kendiliğinden kalınlaşır. Şehir zemin etüdünden bulunur (rüzgâr, kar, deprem şehirden gelir). Radyede ankraj için kolon altı kalınlaştırma 1,2 m'ye kadar. Kazıklı temel hesaplanıp uygun çıkmadıysa çözüm kartı nedenini yazar.",
- "file": "UcelTemel-Kurulum-2.2.7.exe",
- "size": 98049948,
- "sha256": "7c425d92e318545ad47f4a798870b153c1f88b803c1533b9362776aad25f214a",
+ "version": "2.2.8",
+ "notes": "Statik hesap Excel'i (SAP2000 Joint Reactions) çizimdeki düğüm numaralarıyla kolonlara eşlenir: kolon aplikasyonunda her kolonun yanına SAP düğüm numarası yazılırsa koordinat tablosu gerekmez. Dosyalar sayfasında 'Kolon yükleri · Excel' kutusu. Kaplama (Gk), çatı hareketli (Qr), kar desenleri (S1, S2) ve rüzgâr/deprem yön varyantları tanınır; kolon dışı mesnetler uyarılır.",
+ "file": "UcelTemel-Kurulum-2.2.8.exe",
+ "size": 98050339,
+ "sha256": "0b75bc1546411cefad1d47ecd9d968555a894241bfb06fa3f599850b2af72a6e",
  "parts": [
-  "surumler/UcelTemel-2.2.7.part0",
-  "surumler/UcelTemel-2.2.7.part1",
-  "surumler/UcelTemel-2.2.7.part2"
+  "surumler/UcelTemel-2.2.8.part0",
+  "surumler/UcelTemel-2.2.8.part1",
+  "surumler/UcelTemel-2.2.8.part2"
  ]
 }
