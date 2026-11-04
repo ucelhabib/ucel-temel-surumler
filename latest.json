@@ -1,12 +1,12 @@
 {
- "version": "2.2.5",
- "notes": "Adım adım akış: Dosyalar → Yer → Zemin → Yapı ve yükler → Kararlar → Sonuç → Teslim; sayfa tamamlanmadan İleri çalışmaz, ekran kayması giderildi. Kararlar (kolon ayağı, temel tipi, radye kalınlığı, dilatasyon) her zaman görünür. Türkiye: 81 il AFAD deprem değerleri (TBDY 2018 spektrumu) ve TS 498 il bazında kar yükü. Etüt yoksa ekonomik temel; gereken en düşük zemin değeri paftaya şart olarak yazılır. Ankraj kendiliğinden çözülür (plakalı bulon, kayma takozu, kolon altı yerel kalınlaştırma). 2.2.4'te çalışmayan derzsiz radye / taşma payı / temel derinliği çözümleri düzeltildi. Rusya, Kazakistan, Ukrayna, Cezayir, Gürcistan iklim verileri.",
- "file": "UcelTemel-Kurulum-2.2.5.exe",
- "size": 98037934,
- "sha256": "b4672a4476263940bb5a93949a5e38af85ce2393254c33ad3b05899654ba693b",
+ "version": "2.2.6",
+ "notes": "Tekla modeli (IFC) artık projeyle saklanır: proje yeniden açılınca eskimiş kolon yükleri ve yatay yükler kendiliğinden yeniden hesaplanır (düğmeye basmak gerekmez; hesaplanamıyorsa nedeni yazılır). Zemin etüdü Word (.docx) olarak da okunur; dosyalar WhatsApp'tan kopyala-yapıştır ile eklenebilir. Sırbistan: 50 şehir için SRPS EN 1991-1-4/NA:2017 temel rüzgâr hızı. Kazakistan: 55 şehir СП РК 2.03-30-2017* zemin tipine göre deprem ivmesi. Rüzgâr hızı artık 'etütten okunamayan değer' olarak sorulmaz.",
+ "file": "UcelTemel-Kurulum-2.2.6.exe",
+ "size": 98042739,
+ "sha256": "ffca3ef9a48ba632a9afd55a844805e008ac0a24d0f50b1adf53d191f0727fe8",
  "parts": [
-  "surumler/UcelTemel-2.2.5.part0",
-  "surumler/UcelTemel-2.2.5.part1",
-  "surumler/UcelTemel-2.2.5.part2"
+  "surumler/UcelTemel-2.2.6.part0",
+  "surumler/UcelTemel-2.2.6.part1",
+  "surumler/UcelTemel-2.2.6.part2"
  ]
 }
