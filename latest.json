@@ -1,12 +1,12 @@
 {
- "version": "2.2.8",
- "notes": "Statik hesap Excel'i (SAP2000 Joint Reactions) çizimdeki düğüm numaralarıyla kolonlara eşlenir: kolon aplikasyonunda her kolonun yanına SAP düğüm numarası yazılırsa koordinat tablosu gerekmez. Dosyalar sayfasında 'Kolon yükleri · Excel' kutusu. Kaplama (Gk), çatı hareketli (Qr), kar desenleri (S1, S2) ve rüzgâr/deprem yön varyantları tanınır; kolon dışı mesnetler uyarılır.",
- "file": "UcelTemel-Kurulum-2.2.8.exe",
- "size": 98050339,
- "sha256": "0b75bc1546411cefad1d47ecd9d968555a894241bfb06fa3f599850b2af72a6e",
+ "version": "2.2.9",
+ "notes": "Excel'den statik hesap tepkileri yüklenince 'Çizimden okunanlar' kartları ve uyarılar yenilenir; ülke ve şehir etütten okununca kart güncellenir. Statik hesapta rüzgâr yükü varsa yapı açık arazide kabul edilir (soru sorulmaz). Excel yüklenince Tekla modelinden hesaplanmış eski yatay yükler silinir.",
+ "file": "UcelTemel-Kurulum-2.2.9.exe",
+ "size": 98050196,
+ "sha256": "2878618e4eb4c2d8f5db9c7fbb36eb3870bdc8f1bdefdc7ebf51692034dc3d50",
  "parts": [
-  "surumler/UcelTemel-2.2.8.part0",
-  "surumler/UcelTemel-2.2.8.part1",
-  "surumler/UcelTemel-2.2.8.part2"
+  "surumler/UcelTemel-2.2.9.part0",
+  "surumler/UcelTemel-2.2.9.part1",
+  "surumler/UcelTemel-2.2.9.part2"
  ]
 }
