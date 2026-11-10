@@ -1,12 +1,12 @@
 {
- "version": "2.3.4",
- "notes": "Çizim ve 3B düzeltmeleri: kesitlerde ankraj tijleri dolu siyah çubuk (kanca yarıçaplı, plakalı tijde plaka ve somun gerçek ölçüde); paftalarda ve 3B modelde tüm donatı köşeleri büküm yarıçaplı (EN 1992-1-1 mandrel), IFC'de aynı; 3B açılışta sehpa ve donatı açık, beton kapalı; DWG çizgi kalınlıkları ve açılış görünümü pafta; pafta yerleşimi daha dolu; ön projede antet uyarı bandı yok; PDF'te dolu alanlar tam çiziliyor.",
- "file": "UcelTemel-Kurulum-2.3.4.exe",
- "size": 98061519,
- "sha256": "2dc8339563f4758476a6d6198052b3453774460cd40810400b5b000a391ab39f",
+ "version": "2.3.5",
+ "notes": "Şantiye gözüyle tam denetim: kazıklı temelde poz çizelgesi, bağ kirişi tipleri ve başlık tipi kesitleri; bağ kirişi başlığı delmez, kenar U kolu başlığa sığar; ankraj askı donatısı (AF) detayı; çukur kesiti ve harfiyat kotları; 3B donatı çakışmaları sıfır; 190 eksik çeviri eklendi; çeviride uzayan metinlerin çakışmaları giderildi; detay paftası kâğıt seçimi düzeltildi.",
+ "file": "UcelTemel-Kurulum-2.3.5.exe",
+ "size": 98128566,
+ "sha256": "9c33ca4db9efa0ce25d40c6bb8d18f9ff2434b301d6855e0a0a14bcbb370e0d7",
  "parts": [
-  "surumler/UcelTemel-2.3.4.part0",
-  "surumler/UcelTemel-2.3.4.part1",
-  "surumler/UcelTemel-2.3.4.part2"
+  "surumler/UcelTemel-2.3.5.part0",
+  "surumler/UcelTemel-2.3.5.part1",
+  "surumler/UcelTemel-2.3.5.part2"
  ]
 }
