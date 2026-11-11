@@ -1,12 +1,12 @@
 {
- "version": "2.3.5",
- "notes": "Şantiye gözüyle tam denetim: kazıklı temelde poz çizelgesi, bağ kirişi tipleri ve başlık tipi kesitleri; bağ kirişi başlığı delmez, kenar U kolu başlığa sığar; ankraj askı donatısı (AF) detayı; çukur kesiti ve harfiyat kotları; 3B donatı çakışmaları sıfır; 190 eksik çeviri eklendi; çeviride uzayan metinlerin çakışmaları giderildi; detay paftası kâğıt seçimi düzeltildi.",
- "file": "UcelTemel-Kurulum-2.3.5.exe",
- "size": 98128566,
- "sha256": "9c33ca4db9efa0ce25d40c6bb8d18f9ff2434b301d6855e0a0a14bcbb370e0d7",
+ "version": "2.3.6",
+ "notes": "Zorlama testleri (45 yapay vaka) ve ru/ar/uz çeviri taraması: düzensiz akslı sürekli temelde kiriş 3B modeli (AF etriyesi, kanca kolları, kesişen kiriş kotları, etriye/tij yerleşimi, ana+ilave sıra düzeni hesaba dahil); tekil temelde ardışık bağ kirişi çubukları; radyede AF askı U'ları, kalın ilave katmanı, çukur kenarı; dilatasyon çizgisi kolon üstünden geçerse hesap durur (ankrajlar atlanmıyor); kazık halkası ve kafes dönüşü; kiriş paftası kâğıt seçimi; PDF'te düşey yazı hizası; eksik çeviriler.",
+ "file": "UcelTemel-Kurulum-2.3.6.exe",
+ "size": 98136502,
+ "sha256": "ea4a7fb296348bca2bed8fdb6144a8e168ded9f6518d15f56367127103edf134",
  "parts": [
-  "surumler/UcelTemel-2.3.5.part0",
-  "surumler/UcelTemel-2.3.5.part1",
-  "surumler/UcelTemel-2.3.5.part2"
+  "surumler/UcelTemel-2.3.6.part0",
+  "surumler/UcelTemel-2.3.6.part1",
+  "surumler/UcelTemel-2.3.6.part2"
  ]
 }
