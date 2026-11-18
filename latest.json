@@ -1,12 +1,12 @@
 {
- "version": "2.3.6",
- "notes": "Zorlama testleri (45 yapay vaka) ve ru/ar/uz çeviri taraması: düzensiz akslı sürekli temelde kiriş 3B modeli (AF etriyesi, kanca kolları, kesişen kiriş kotları, etriye/tij yerleşimi, ana+ilave sıra düzeni hesaba dahil); tekil temelde ardışık bağ kirişi çubukları; radyede AF askı U'ları, kalın ilave katmanı, çukur kenarı; dilatasyon çizgisi kolon üstünden geçerse hesap durur (ankrajlar atlanmıyor); kazık halkası ve kafes dönüşü; kiriş paftası kâğıt seçimi; PDF'te düşey yazı hizası; eksik çeviriler.",
- "file": "UcelTemel-Kurulum-2.3.6.exe",
- "size": 98136502,
- "sha256": "ea4a7fb296348bca2bed8fdb6144a8e168ded9f6518d15f56367127103edf134",
+ "version": "2.3.7",
+ "notes": "Oturma aşılınca zemin değiştirme (sıkıştırılmış kum-çakıl yastık) artık her zaman değerlendirilir: gereken yastık kalınlığı, kazı derinliği, yeraltı suyu ve kalan oturmanın yastık altından gelen payı gösterilir; karşılaştırma tablosu ve rapor bu seçeneği sunar, kayma aşılıyorsa kazık önerilir. Katmanlı zeminde oturma modeli tutarlı hale getirildi. Varsayılan pas payında donatı çakışmaları giderildi; kiriş hesabındaki bir çökme düzeltildi; eksik çeviriler (en/ru/ar/uz) tamamlandı.",
+ "file": "UcelTemel-Kurulum-2.3.7.exe",
+ "size": 105240703,
+ "sha256": "d222316c6dc4aa62c2231d6eff77b46f896cabd6318493b7628bdb66960f2e3b",
  "parts": [
-  "surumler/UcelTemel-2.3.6.part0",
-  "surumler/UcelTemel-2.3.6.part1",
-  "surumler/UcelTemel-2.3.6.part2"
+  "surumler/UcelTemel-2.3.7.part0",
+  "surumler/UcelTemel-2.3.7.part1",
+  "surumler/UcelTemel-2.3.7.part2"
  ]
 }
