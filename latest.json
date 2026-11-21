@@ -1,12 +1,12 @@
 {
- "version": "2.3.7",
- "notes": "Oturma aşılınca zemin değiştirme (sıkıştırılmış kum-çakıl yastık) artık her zaman değerlendirilir: gereken yastık kalınlığı, kazı derinliği, yeraltı suyu ve kalan oturmanın yastık altından gelen payı gösterilir; karşılaştırma tablosu ve rapor bu seçeneği sunar, kayma aşılıyorsa kazık önerilir. Katmanlı zeminde oturma modeli tutarlı hale getirildi. Varsayılan pas payında donatı çakışmaları giderildi; kiriş hesabındaki bir çökme düzeltildi; eksik çeviriler (en/ru/ar/uz) tamamlandı.",
- "file": "UcelTemel-Kurulum-2.3.7.exe",
- "size": 105240703,
- "sha256": "d222316c6dc4aa62c2231d6eff77b46f896cabd6318493b7628bdb66960f2e3b",
+ "version": "2.4.0",
+ "notes": "3B donatı denetimi çakışma bulursa 3B ekranda kırmızı noktalarla gösterir; program önce kanca yönü ve etriye yerleşimini değiştirerek kendini onarmayı dener. Çizimdeki bulon düzeniyle ankraj yetmezse ne yeteceği öneri olarak gösterilir (taban plakası değiştirilmez). Hesaptan önce DWG ön kontrolü: üst üste/aynı adlı kolon, plaka çakışması, plakadan taşan, kenara veya birbirine yakın delik. Sürekli, ızgara ve tekil temelde yeni Kesişim Detayları paftası. Kazık bağ kirişlerinde gerektiğinde iki sıra donatı; başlık içi uç kolları, plakalı tij–kazık filizi ve askı donatısı çakışmaları giderildi. Paftalar daha hızlı üretilir.",
+ "file": "UcelTemel-Kurulum-2.4.0.exe",
+ "size": 105264738,
+ "sha256": "5790406450fe89378e3cefbd766ffd380e8a2e258cca13e3dc5119ff847df806",
  "parts": [
-  "surumler/UcelTemel-2.3.7.part0",
-  "surumler/UcelTemel-2.3.7.part1",
-  "surumler/UcelTemel-2.3.7.part2"
+  "surumler/UcelTemel-2.4.0.part0",
+  "surumler/UcelTemel-2.4.0.part1",
+  "surumler/UcelTemel-2.4.0.part2"
  ]
 }
